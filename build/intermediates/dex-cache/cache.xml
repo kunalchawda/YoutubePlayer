@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Android Projects\YoutubePlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="G:\Android Projects\YoutubePlayer\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_7a77ed5b0f55918f8f49f3aeaea4dfb1580d5bc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Projects\YoutubePlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="G:\Android Projects\YoutubePlayer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_fe9da14a4eb9604843903c59626d2010c79749a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Projects\YoutubePlayer\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
+        <dex dex="G:\Android Projects\YoutubePlayer\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_3b906c4186c2caeed661170f89365a6f4033e657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="G:\Android Projects\YoutubePlayer\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_cae3168f240a6c6aa4b2676aa0b55376a5d97eb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Projects\YoutubePlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="G:\Android Projects\YoutubePlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_952783814cfe69eb50c8767af771d21548862869.jar" />
+    </item>
+
+</items>
